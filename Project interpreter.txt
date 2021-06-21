@@ -1,0 +1,6 @@
+Use gym as project interpreter it has all necessary libraries installed in it: gym is found in C/users/josho/anaconda3/envs/gym
+
+or make your own interpreter and install
+-tensorflow
+-rglsvg
+ and the other required libraries

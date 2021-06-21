@@ -1,0 +1,6 @@
+Work:	SCALE	VIEWBOX	LW
+table	0.75	1	1
+arrow	5	2	5
+N_B	5	2	5
+Tri	18	2	5
+D_S	9	2	5
